@@ -1,0 +1,25 @@
+.card:hover{
+	box-shadow: 1px 1px 17px 5px purple !important;
+	transition: 1s all;
+}
+
+#accordion{
+	width:100%;
+}
+
+.arrow{
+	vertical-align: text-bottom;
+}
+
+.movie-button{
+	width: 100%;
+	text-align: left;
+}
+
+.down-arrow{
+	float: right;
+}
+
+.home-button{
+	display: flex;
+}

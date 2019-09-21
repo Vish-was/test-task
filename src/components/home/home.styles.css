@@ -1,0 +1,13 @@
+div.header{
+	width: 100%;
+	text-align: center;
+}
+
+.header h1{
+	font-size: 4.5rem;
+	text-shadow: 1px 1px 8px black;
+}
+
+.red-heart{
+	color: red;
+}
